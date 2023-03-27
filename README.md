@@ -7,4 +7,6 @@
 
 ---
 
-###Sobre Mi
+### Sobre Mi
+- Programador en Java, .Net, Html y CSS
+- Aprendiendo JavaScript y Python
