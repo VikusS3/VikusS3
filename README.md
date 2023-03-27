@@ -11,5 +11,6 @@
 - Programador en Java, .Net, Html y CSS
 - Aprendiendo JavaScript y Python
 
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vikus&theme=dark&hide_border=verdadero&border_radius=5&locale=es&mode=weekly)](https://git.io/streak-stats)
