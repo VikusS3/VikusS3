@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1 align="center"> Hola Soy Vikus</h1>
   <h3 align="center">
-    Aprendiendo cada dia nuevas formas de programar
+    Aprendiendo cada dia nuevas formas de programar, Programador Junior
   </h3>
  </div>
 
