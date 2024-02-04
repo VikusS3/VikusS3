@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikuss3" alt="vikuss3" /></a> </p>
 
-- 🌱 I’m currently learning **python, reflex ,javascript and pytorch**
+- 🌱 I’m currently learning **python, node ,react, astro y mas**
 
-- 💬 Ask me about **python, asp.net, php, html,css and javascript and more**
+- 💬 Ask me about **python, asp.net, php, html, css and javascript and more**
 
 - 📫 How to reach me **felix21soc@gmail.com**
 
