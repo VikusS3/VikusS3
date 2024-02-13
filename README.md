@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikusS3&show_icons=true&locale=en" alt="vikuss3" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikusS3&hide_progress=true)
+<p>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikusS3&hide_progress=true)</p>
