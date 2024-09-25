@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikuss3" alt="vikuss3" /></a> </p>
 
-- 🌱 I’m currently learning **python, node ,react, astro y más**
+- 🌱 I’m currently learning **vuejs y laravel más**
 
 - 💬 Ask me about **python, asp.net, php, html, css and javascript and more**
 
