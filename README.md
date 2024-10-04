@@ -25,8 +25,9 @@
   
 <p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VikusS3&theme=dark&hide_border=verdadero&border_radius=5&locale=es&mode=weekly)](https://git.io/streak-stats" alt="vikuss3" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikusS3&show_icons=true&locale=en" alt="vikuss3" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikusS3&hideprogress=true)
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VikusS3&hide_progress=true)
  
 
