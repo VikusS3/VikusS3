@@ -60,9 +60,6 @@ Data processing and automation with Python & Excel</li>
 
 <h2>📈 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VikusS3&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VikusS3&theme=tokyonight" />
